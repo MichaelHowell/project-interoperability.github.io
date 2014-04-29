@@ -96,4 +96,4 @@ Interoperability requirements are defined and need to be addressed for each of t
 
 ![](/images/common-approach.png)
 
-ISE mission partners are aligned with different existing architecture frameworks. It may not be necessary to address all capabilities outlined in each domain of the common approach. Some capabilities will be addressed as part of the reference implementation. The table above defines the initial alignment of the ISE and the common approach. Consistency in how ISE participants address these interoperability requirements within each domain will assist in coordinating activities to define the nationwide ISE capabilities.
+ISE mission partners are aligned with different existing architecture frameworks. It may not be necessary to address all capabilities outlined in each domain of the common approach. Some capabilities will be addressed as part of the reference implementation. The table above defines the initial alignment of the ISE and the common approach. Consistency in how ISE participants address these interoperability requirements within each domain will assist in coordinating activities to define the nationwide ISE capabilities..
